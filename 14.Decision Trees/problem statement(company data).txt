@@ -1,10 +1,11 @@
-Decision Tree
+Decision Tree:-Decision Tree : Decision tree is the most powerful and popular tool for classification and prediction. A Decision tree is a flowchart like tree structure, where each internal node denotes a test on an attribute, each branch represents an outcome of the test, and each leaf node (terminal node) holds a class label. 
  
 Assignment
 
 
 About the data: 
 Let’s consider a Company dataset with around 10 variables and 400 records. 
+
 The attributes are as follows: 
  Sales -- Unit sales (in thousands) at each location
  Competitor Price -- Price charged by competitor at each location
@@ -18,6 +19,7 @@ The attributes are as follows:
  Urban -- A factor with levels No and Yes to indicate whether the store is in an urban or rural location
  US -- A factor with levels No and Yes to indicate whether the store is in the US or not
 The company dataset looks like this: 
+ 
  
 Problem Statement:
 A cloth manufacturing company is interested to know about the segment or attributes causes high sale. 
